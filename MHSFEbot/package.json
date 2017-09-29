@@ -1,0 +1,26 @@
+{
+  "name": "mhsfe-bot",
+  "version": "0.0.1",
+  "description": "A bot made for the mhsfe group",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "director": "",
+    "mongodb": ""
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lryanle/mhsfe-bot"
+  },
+  "keywords": [
+    "mhsfe",
+    "groupme"
+  ],
+  "license": "MIT"
+}
