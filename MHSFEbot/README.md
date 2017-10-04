@@ -1,4 +1,4 @@
-#What is this Groupme Bot?
+#What is this Bot?
 
 This bot was specifically created for the MHSFE group.
 
